@@ -1,3 +1,4 @@
+<hr>
 <h3>1. HTML Basics</h3> <br>
 -Introduction to HTML<br>
 -HTML Versions<br>
