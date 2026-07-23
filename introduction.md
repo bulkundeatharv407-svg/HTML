@@ -1,6 +1,6 @@
 <h1>HTML</h1><div>
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
-</div> <br> HTML - (HyperText Markup Language) is the standard markup language used to create and structure web pages. It defines the content and layout of a webpage by using elements (tags) such as headings, paragraphs, images, links, tables, and forms.
+</div> <hr> HTML - (HyperText Markup Language) is the standard markup language used to create and structure web pages. It defines the content and layout of a webpage by using elements (tags) such as headings, paragraphs, images, links, tables, and forms.
 
 HTML is not a programming language; it is a markup language that tells a web browser how to display content on the internet.
 
