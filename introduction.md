@@ -14,7 +14,7 @@ Simple and easy to understand.<br>
 Platform-independent.<br>
 Supports multimedia such as images, audio, and video.<br>
 <hr>
-<h3>Applications of HTML</h3><br>
+<h3>Applications of HTML</h3>
 Creating websites<br>
 Building web applications<br>
 Designing landing pages<br>
