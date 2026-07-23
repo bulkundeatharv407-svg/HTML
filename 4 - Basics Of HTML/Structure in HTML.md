@@ -7,6 +7,7 @@ In HTML the Structure are strat from
 Declares  the document is  HTML5.
 <h3>2 - html</h3>
 It is the root element of an HTML
+ -lang="" that used for selecting  language 
 <h3>3. head</h3>
 -Contains information about the webpage.<br>
 -This information is not displayed on the webpage.<br>
