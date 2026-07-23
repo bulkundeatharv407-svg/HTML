@@ -1,10 +1,10 @@
-<h3>1. HTML Basics</h3>
-Introduction to HTML
-HTML Versions
-HTML Editors
-HTML Document Structure
-<!DOCTYPE html>
-HTML Elements
+<h3>1. HTML Basics</h3> <br>
+Introduction to HTML<br>
+HTML Versions<br>
+HTML Editors<br>
+HTML Document Structure<br>
+<!DOCTYPE html><br>
+HTML Elements<br>
 HTML Attributes
 2. Text & Content
 Headings
