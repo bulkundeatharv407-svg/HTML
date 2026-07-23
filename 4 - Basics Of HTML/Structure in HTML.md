@@ -16,4 +16,4 @@ It is placed inside the <head> section.<br>
 <h3> 5. body</h3>
 Contains all the visible content of the webpage.
 Everything that users see, such as headings, paragraphs, images, tables, links, and forms, is placed inside the <body> tag.
-<h2>That all tag are have to closed </h2>
+<h2>That all tag are have to closed  then the code are completed .</h2>
