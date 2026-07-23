@@ -1,10 +1,8 @@
 <hr>
 <h3>1. HTML Basics</h3> <br>
 -Introduction to HTML<br>
--HTML Versions<br>
--HTML Editors<br>
+-HTML Versions,  Editors<br>
 -HTML Document Structure<br>
--!DOCTYPE html<br>
 -HTML Elements<br>
 -HTML Attributes<br>
 <hr>
