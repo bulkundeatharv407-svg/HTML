@@ -9,7 +9,7 @@ HTML Attributes<br>
 2. Text & Content<br>
 Headings<br>
 Paragraphs<br>
-Line Breaks (<br>)
+Line Breaks br <br>
 Horizontal Rules (hr)
 Text Formatting<br>
 Bold<br>
