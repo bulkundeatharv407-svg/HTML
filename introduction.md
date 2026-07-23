@@ -9,3 +9,7 @@ M – Language
 HyperText
 
 HyperText refers to text that contains links (called hyperlinks)
+<h1>Features of HTML</h1>h1>
+Simple and easy to understand.
+Platform-independent.
+Supports multimedia such as images, audio, and video.
