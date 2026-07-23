@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>HTML Elements and Their Purpose</title>
-</head>
-<body>
+
 
     <h2>HTML Elements and Their Purpose</h2>
 
