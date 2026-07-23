@@ -6,6 +6,7 @@
 -!DOCTYPE html<br>
 -HTML Elements<br>
 -HTML Attributes<br>
+<hr>
 2. Text & Content<br>
 -Headings<br>
 -Paragraphs<br>
