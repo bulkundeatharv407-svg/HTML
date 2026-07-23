@@ -1,6 +1,6 @@
 # Structure in HTML
 <hr>
-<h2>that structure also called as Boilerplate Code</h2>
+<h2>That structure also called as Boilerplate Code .</h2>
 <hr>
 In HTML the Structure are strat from
 <h3>1 - !DOCTYPE html</h3>
