@@ -24,23 +24,27 @@
 -Insert<br>
 -Subscript<br>
 -Superscript<br>
+<hr>
 3. Links<br>
 -Hyperlinks<br>
 -Absolute & Relative URLs<br>
 -Email Links<br>
 -Bookmark Links<br>
 -Download Links<br>
+<hr>
 4. Images<br>
 -Image Tag<br>
 -Image Attributes<br>
 -Image Maps<br>
 -Responsive Images<br>
 -Picture Element<br>
+<hr>
 5. Lists<br>
 -Ordered Lists<br>
 -Unordered Lists<br>
 -Description Lists<br>
 -Nested Lists<br>
+<hr>
 6. Tables<br>
 -Table Structure<br>
 -Rows & Columns<br>
@@ -49,6 +53,7 @@
 -Colspan<br>
 -Rowspan<br>
 -Table Styling Basics<br>
+<hr>
 7. Forms<br>
 -Form Element<br>
 -Input Types<br>
@@ -62,12 +67,14 @@
 -Datalist<br>
 -Output<br>
 -Form Validation<br>
+<hr>
 8. Multimedia<br>
 -Audio<br>
 -Video<br>
 -Embed<br>
 -Object<br>
 -Iframe<br>
+<hr>
 9. HTML Layout<br>
 -Div<br>
 -Span<br>
@@ -78,6 +85,7 @@
 -Article<br>
 -Aside<br>
 -Footer<br>
+<hr>
 10. Semantic HTML<br>
 -Semantic Elements<br>
 -Non-semantic Elements<br>
@@ -86,15 +94,18 @@
 -Details<br>
 -Summary<br>
 -Time<br>
+<hr>
 11. HTML Graphics<br>
 -Canvas<br>
 -SVG<br>
+<hr>
 12. HTML APIs<br>
 -Drag and Drop<br>
 -Geolocation<br>
 -Web Storage<br>
 -Web Workers<br>
 -Server-Sent Events<br>
+<hr>
 13. Metadata<br>
 -Meta Tags<br>
 -Character Encoding<br>
@@ -103,19 +114,23 @@
 -Keywords<br>
 -Author<br>
 -Favicon<br>
+<hr>
 14. HTML Entities<br>
 -Character Entities<br>
 -Symbols<br>
 -Emojis<br>
+<hr>
 15. HTML Scripting<br>
 -Script Tag<br>
 -Noscript Tag<br>
+<hr>
 16. HTML Computer Code Elements<br>
 -code<br>
 -pre<br>
 -kbd<br>
 -samp<br>
 -var<br>
+<hr>
 17. HTML Quotations<br>
 -Blockquote<br>
 -Quote (<q>)<br>
@@ -123,6 +138,7 @@
 -Address<br>
 -Citation (<cite>)<br>
 -Bidirectional Override (<bdo>)<br>
+  <hr>
 18. HTML File Paths<br>
 19. HTML Classes & IDs<br>
 20. HTML Colors<br>
