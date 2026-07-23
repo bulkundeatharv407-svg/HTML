@@ -10,15 +10,16 @@ HyperText
 
 HyperText refers to text that contains links (called hyperlinks)
 <h3>Features of HTML</h3>
-Simple and easy to understand.
-Platform-independent.
-Supports multimedia such as images, audio, and video.
-<h3>Applications of HTML</h3>
-Creating websites
-Building web applications
-Designing landing pages
-Creating online forms
-Email templates
-Portfolio websites
-Blogs and news websites
-Educational websites
+Simple and easy to understand.<br>
+Platform-independent.<br>
+Supports multimedia such as images, audio, and video.<br>
+<hr>
+<h3>Applications of HTML</h3><br>
+Creating websites<br>
+Building web applications<br>
+Designing landing pages<br>
+Creating online forms<br>
+Email templates<br>
+Portfolio websites<br>
+Blogs and news websites<br>
+Educational websites<br>
