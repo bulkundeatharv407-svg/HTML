@@ -12,7 +12,7 @@ It is the root element of an HTML
 <h3>4. title</h3>
 Specifies the title of the webpage.<br>
 The title appears on the browser tab.<br>
-It is placed inside the <head> section.<br.
-<h3>5. body</h3>
+It is placed inside the <head> section.<br>
+<h3> 5. body</h3>
 Contains all the visible content of the webpage.
 Everything that users see, such as headings, paragraphs, images, tables, links, and forms, is placed inside the <body> tag.
