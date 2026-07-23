@@ -1,5 +1,6 @@
-#Versions of HTML
-1. HTML 1.0 (1993)
+<h1>Versions of HTML</h1>
+<br>
+<h3>HTML 1.0 (1993)</h3>
 
 HTML 1.0 was the first version of HTML. It allowed developers to create simple web pages with headings, paragraphs, and hyperlinks. It had very limited features and was mainly used to display text on the web.
 
