@@ -5,3 +5,7 @@ In HTML the Structure are strat from
 Declares  the document is  HTML5.
 <h3>2 - html</h3>
 It is the root element of an HTML
+<h3>3. head</h3>
+-Contains information about the webpage.
+-This information is not displayed on the webpage.
+-It includes the title
